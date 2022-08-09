@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Glegoo:wght@700&family=Permanent+Marker&display=swap');
+
+iframe{
+    margin: 66px;
+}
+
+body{
+    background-image: url('imgs/col4.jpeg');
+    background-size: cover;
+}
+
+.col1{
+    color: white;
+    font-family: 'Glegoo', serif;
+    font-size:24px;
+    font-weight: bolder;
+}

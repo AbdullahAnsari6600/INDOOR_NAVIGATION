@@ -1,0 +1,10 @@
+body{
+    background-image: url('imgs/wall1.jpg');
+    background-size: cover;
+}
+
+.vid{
+    margin-top: 4%;
+    margin-left: 15%;
+
+}
